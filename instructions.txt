@@ -3,5 +3,4 @@ A proper letter of instruction is vital.
 
 troubleshooting
 -------------------------------------------------------------------
-
-installation steps
+Installation steps
